@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: 'Helvatica';
+  src: url(/HelveticaNowText-Regular.woff2);
+}
+@font-face {
+  font-family: 'Futura';
+  src: url(/Futura-Bold.woff2);
+}
+
+.PlayButton {
+  opacity: 0 ; 
+  scale: 0;
+  z-index: 10;
+  
+}
+
+*::selection {
+  background-color:#000 ;
+  color: #f0f0f0;
+}
+
+.Fontanimate {
+  opacity: 0;
+  
+}
+
+.Hoverimage {
+ opacity: 1;
+}
+
