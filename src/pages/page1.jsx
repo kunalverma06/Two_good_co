@@ -17,7 +17,7 @@ const Page1 = () => {
     return(
         <div className="min-h-[30rem]">
                 <Navbar />
-            <div className="font-[futura]  mt-30 text-[32vh] leading-[28vh] pl-4">
+            <div className="font-[futura]  mt-30 text-[30vh] leading-[28vh] pl-4">
                 <h1 className="Fontanimate  w-[55rem]">CHANGE</h1>
                 <h1 className="Fontanimate">THE COURSE</h1>
             </div>

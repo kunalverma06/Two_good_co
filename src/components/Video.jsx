@@ -44,6 +44,7 @@ const VideoComponent = () => {
       ref={VideoRef}
       // onMouseMove={handleMouseMove}
       onMouseMove={handleMouseMove}
+      onMouseEnter={handleMouseMove}
       onMouseLeave={handleMouseLeave}
       className="relative"
     >
