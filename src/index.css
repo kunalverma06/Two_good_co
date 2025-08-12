@@ -30,7 +30,10 @@
  opacity: 1;
 }
 
-.Menubar{
-  transform-origin: top;
-  perspective:3000px;
+.perspective-container {
+  perspective: 1000px; /* Depth distance */
+}
+
+.menu-items {
+  transform-origin: top center; /* Matches rotateX axis */
 }
