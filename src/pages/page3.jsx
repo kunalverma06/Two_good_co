@@ -42,7 +42,7 @@ const Page3 = () => {
   }
 
   return (
-    <div ref={Hoverwindow}  className=" w-screen min-h-screen  ">
+    <div ref={Hoverwindow}  className=" w-screen h-[85rem]  ">
 
       {/* mouse move circle */}
       <div className="circle  w-[18rem] opacity-40 z-10 pointer-events-none h-[18rem] scale-0  rounded-full bg-gray-300  flex items-center absolute"> </div>
