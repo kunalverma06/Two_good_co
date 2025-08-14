@@ -1,4 +1,4 @@
-twogood.co Clone 🌿🛍️
+## Twogood.co Clone 🌿🛍️
 
 This repository contains a faithful clone of the [twogood.com.au](https://twogood.com.au/) website, aiming to replicate its design, functionality, and user experience. This project serves as a demonstration of front-end development skills, and component-based architecture.
 
